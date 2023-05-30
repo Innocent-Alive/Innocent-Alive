@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Abhay Kumar Das (Innocent_Alive)<img alt="hello" height="96" width="128" src="https://media.giphy.com/media/w7jtVnXxMOq08/giphy.gif"></h1>
+<h1 align="center">Hello, I'm Abhay Kumar Das (Innocent_Alive)<img alt="hello" height="48" width="64" src="https://media.giphy.com/media/w7jtVnXxMOq08/giphy.gif"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>

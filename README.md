@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar Das (Innocent_Alive)</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right alt="coding" height="680" width="428" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
+<img align="right" alt="coding" height="428" width="680" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
 

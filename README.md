@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
 
-<p align="left"> My Github Achievements: <br><br>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocent-alive" alt="innocent-alive" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/innocent_alive_" target="blank"><img src="https://img.shields.io/twitter/follow/innocent_alive_?logo=twitter&style=for-the-badge" alt="innocent_alive_" /></a> </p>
 
 - 🌱 I’m currently learning **React, Python**
@@ -15,6 +12,9 @@
 - 📫 How to reach me **abhay744das@gmail.com**
 
 - ⚡ Fun fact **I Become A Lunatic For Building New Things**
+
+<p align="left"> My Github Achievements: <br><br>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocent-alive" alt="innocent-alive" /></a> </p><hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

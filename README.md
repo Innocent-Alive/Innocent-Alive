@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Abhay Kumar Das (Innocent_Alive)<img alt="hello" height="55" width="50" src="https://th.bing.com/th/id/R.0fc85da32d0e51e12880dd702b77a299?rik=pwV4zRyENq%2bdDg&riu=http%3a%2f%2f25.media.tumblr.com%2ftumblr_mdk6s9kKAm1r7i5f3o1_500.gif&ehk=rotl1dhUXRRpMQmB7YJ8H%2f5lXVfQTiYZ%2boN7lgyEbNY%3d&risl=&pid=ImgRaw&r=0"></h1>
+<h1 align="center">Hey, I'm Abhay Kumar Das (Innocent_Alive)<img alt="hello" height="45" width="40" src="https://th.bing.com/th/id/R.0fc85da32d0e51e12880dd702b77a299?rik=pwV4zRyENq%2bdDg&riu=http%3a%2f%2f25.media.tumblr.com%2ftumblr_mdk6s9kKAm1r7i5f3o1_500.gif&ehk=rotl1dhUXRRpMQmB7YJ8H%2f5lXVfQTiYZ%2boN7lgyEbNY%3d&risl=&pid=ImgRaw&r=0"></h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>

@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhay Kumar Das (Innocent_Alive)</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="right">A passionate frontend developer from India</h3>
 <img align="center" alt="coding" height="428" width="680" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
 
-<p align="left"> My Github Achievements <br>
+<p align="left"> My Github Achievements: <br><br>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocent-alive" alt="innocent-alive" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/innocent_alive_" target="blank"><img src="https://img.shields.io/twitter/follow/innocent_alive_?logo=twitter&style=for-the-badge" alt="innocent_alive_" /></a> </p>

@@ -25,6 +25,7 @@
 <a href="https://twitter.com/innocent_alive_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="innocent_alive_" height="30" width="40" /></a>
 <a href="https://instagram.com/innocent_alive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="innocent_alive" height="30" width="40" /></a>
 <a href="https://discord.gg/6ZKMANAS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6ZKMANAS" height="30" width="40" /></a>
+<a href="https://www.reddit.com/user/Effective-Arrival335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Effective-Arrival335" height="30" width="40" /></a>
 </p><hr size=1px>
 
 <h3 align="left">Languages and Tools:</h3>

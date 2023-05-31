@@ -1,10 +1,5 @@
 <h1 align="center"><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25"> Hello, I'm Abhay Kumar Das (Innocent_Alive) <img alt="hello" height="57" width="50" src="https://intranet.williamaustin-jun.luton.sch.uk/images/scratch.gif"></h1>
-<h2 align="center" color="red">A passionate frontend developer from India</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
-
-<p align="left"> <a href="https://twitter.com/innocent_alive_" target="blank"><img src="https://img.shields.io/twitter/follow/innocent_alive_?logo=twitter&style=for-the-badge" alt="innocent_alive_" /></a> </p>
-<p align="left"> <a href="https://instagram.com/innocent_alive" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="innocent_alive" /></a> </p>
+<h2 align="center">A passionate frontend developer from India</h2>
 
 - 🌱 I’m currently learning **React, Python, jQuerry**
 
@@ -13,6 +8,12 @@
 - 📫 How to reach me **abhay744das@gmail.com**
 
 - ⚡ Fun fact **I Become A Lunatic For Building New Things**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
+
+<p align="left"> <a href="https://twitter.com/innocent_alive_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="innocent_alive_" /></a> &nbsp;&nbsp; <a href="https://instagram.com/innocent_alive" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="innocent_alive" /></a> &nbsp;&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center">  </p>
+<p align="right">  </p>
 
 <hr>
 <h2>My Github Achievements: </h2>

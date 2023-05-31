@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
 
 <p align="left"> <a href="https://twitter.com/innocent_alive_" target="blank"><img src="https://img.shields.io/twitter/follow/innocent_alive_?logo=twitter&style=for-the-badge" alt="innocent_alive_" /></a> </p>
-<p align="left"> <a href="https://instagram.com/innocent_alive" target="blank"><img src="https://img.shields.io/instagram/follow/innocent_alive?style=for-the-badge&logo=instagram" alt="innocent_alive" /></a> </p>
+<p align="left"> <a href="https://instagram.com/innocent_alive" target="blank"><img src="https://img.shields.io/instagram/follow/innocent_alive?style=for-the-badge&logo="https://statesborodowntown.com/wp-content/uploads/2016/01/instagram-Logo-PNG-Transparent-Background-download.png" alt="innocent_alive" /></a> </p>
 
 - 🌱 I’m currently learning **React, Python, jQuerry**
 

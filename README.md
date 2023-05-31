@@ -1,13 +1,18 @@
+<p><img src="" alt="Profile Banner"/></p>
 <h1 align="center"><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25"> Hello, I'm Abhay Kumar Das (Innocent_Alive) <img alt="hello" height="57" width="50" src="https://intranet.williamaustin-jun.luton.sch.uk/images/scratch.gif"></h1>
 <h2 align="center">A passionate frontend developer from India</h2>
 
-- 🌱 I’m currently learning **React, Python, jQuerry**
+- <img src="https://media2.giphy.com/media/QZVdubDMj6RCvBOQBk/giphy.gif?cid=790b7611f2015ca3af40383f08d9be470a45744ddbff8c6f&rid=giphy.gif&ct=s" alt="telescope" width="25" height="26" /> I’m currently working on **Web Projects**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, MySQL**
+- <img src="https://i.gifer.com/origin/4c/4c8423ace30594a2f80c07639d6885fd_w200.gif" alt="growth" width="25" height="28" /> I’m currently learning **React, Python, jQuerry**
 
-- 📫 How to reach me **abhay744das@gmail.com**
+- <img src="https://media.tenor.com/images/22f42c11b612b041b4038573dca18a2d/tenor.gif" alt="collaboration" width="28" height="25" /> I’m looking to collaborate for **Group Projects**
 
-- ⚡ Fun fact **I Become A Lunatic For Building New Things**
+- <img src="https://i.pinimg.com/originals/e2/7b/ce/e27bceee41105a0199ebb277382cfe2b.gif" alt="idea" width="28" height="25" /> Ask me about **HTML, CSS, JAVASCRIPT, MySQL**
+
+- <img src="https://www.pinclipart.com/picdir/big/143-1432236_contacts-us-mail-mail-gif-us-mail-gifs.png" alt="idea" width="25" height="25" /> How to reach me **abhay744das@gmail.com**
+
+- <img src="https://media.giphy.com/media/l4FGDXzlX3p5U9zJS/200.gif" alt="idea" width="28" height="25" /> Fun fact **I Become A Lunatic For Building New Things**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
 

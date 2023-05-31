@@ -1,7 +1,7 @@
 ![Banner](/banner.gif)
 <h1 align="center"><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25"> Hello, I'm Abhay Kumar Das (Innocent_Alive) <img alt="hello" height="57" width="50" src="https://intranet.williamaustin-jun.luton.sch.uk/images/scratch.gif"></h1>
 <h2 align="center"><img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" />  A passionate frontend developer from India  <img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" /></h2>
-<img src="https://github.com/Innocent-Alive/Innocent-Alive/blob/main/lunney tunes coding.gif" align="right"/>
+<img src="https://33.media.tumblr.com/09b2f1ad61f656a4981716f70c159998/tumblr_n9oskaDd3H1shpedgo1_400.gif" align="right" height="360" width="300" />
 
 - <img src="https://media2.giphy.com/media/QZVdubDMj6RCvBOQBk/giphy.gif?cid=790b7611f2015ca3af40383f08d9be470a45744ddbff8c6f&rid=giphy.gif&ct=s" alt="telescope" width="25" height="26" /> I’m currently working on **Web Projects**
 
@@ -17,7 +17,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
 
-<p align="left"> <a href="https://twitter.com/innocent_alive_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="innocent_alive_" /></a> &nbsp;&nbsp; <a href="https://instagram.com/innocent_alive" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="innocent_alive" /></a> &nbsp;&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="left"><img src="https://media0.giphy.com/media/MTt7Eh8WPudlStuY7L/source.gif" height="50" width="70" />&nbsp;&nbsp;<a href="https://twitter.com/innocent_alive_" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="innocent_alive_" /></a> &nbsp;&nbsp; <a href="https://instagram.com/innocent_alive" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="innocent_alive" /></a> &nbsp;&nbsp; <a href="#" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;</p>
 <p align="center">  </p>
 <p align="right">  </p>
 

@@ -1,6 +1,7 @@
 ![Banner](/banner.gif)
 <h1 align="center"><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25"> Hello, I'm Abhay Kumar Das (Innocent_Alive) <img alt="hello" height="57" width="50" src="https://intranet.williamaustin-jun.luton.sch.uk/images/scratch.gif"></h1>
 <h2 align="center">A passionate frontend developer from India</h2>
+<img src="https://github.com/Innocent-Alive/Innocent-Alive/blob/main/lunney tunes coding.gif" align="right"/>
 
 - <img src="https://media2.giphy.com/media/QZVdubDMj6RCvBOQBk/giphy.gif?cid=790b7611f2015ca3af40383f08d9be470a45744ddbff8c6f&rid=giphy.gif&ct=s" alt="telescope" width="25" height="26" /> I’m currently working on **Web Projects**
 

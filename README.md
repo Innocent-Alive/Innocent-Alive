@@ -1,4 +1,4 @@
-![Banner](/banner.gif)
+![logo](https://github.com/Innocent-Alive/Innocent-Alive/blob/main/Purple%20Orange%20Illustration%20Content%20Creator%20Profile%20Video.gif)
 <h1 align="center"><img src="https://github.com/9102004Harshika/9102004Harshika/blob/main/hi.gif" width="25" height="25"> Hello, I'm Abhay Kumar Das (Innocent_Alive) <img alt="hello" height="57" width="50" src="https://intranet.williamaustin-jun.luton.sch.uk/images/scratch.gif"></h1>
 <h2 align="center"><img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" />  A passionate frontend developer from India  <img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" /></h2>
 <img src="https://33.media.tumblr.com/09b2f1ad61f656a4981716f70c159998/tumblr_n9oskaDd3H1shpedgo1_400.gif" align="right" height="360" width="300" />

@@ -60,6 +60,8 @@ My Github Achievements: </h2>
 
 
 <h2>My Github Statistics so far -</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent-alive&show_icons=true&locale=en&layout=compact" alt="innocent-alive" /><br><img align="center" src="https://github-readme-stats.vercel.app/api?username=innocent-alive&show_icons=true&theme=tokyonight&locale=en" alt="innocent-alive" /><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=innocent-alive&theme=dark" alt="innocent-alive" /></p><br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent-alive&show_icons=true&locale=en&layout=compact" alt="innocent-alive" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=innocent-alive&show_icons=true&theme=tokyonight&locale=en" alt="innocent-alive" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=innocent-alive&theme=dark" alt="innocent-alive" /></p><hr>
 
-<img src="https://th.bing.com/th/id/R.bef9749a5d0fd6999aea4bb8f61e3594?rik=lyBRuOCZw38O3Q&riu=http%3a%2f%2forig14.deviantart.net%2f00af%2ff%2f2013%2f094%2ff%2f4%2floading_gif_by_zegerdon-d60eb1v.png&ehk=AzeYe6MyxpzPHdQJKySAkNmbM9Nk2U3oVC54BBkHHwM%3d&risl=&pid=ImgRaw&r=0">
+<img src="https://github.com/Innocent-Alive/Innocent-Alive/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif" alt="banner" />

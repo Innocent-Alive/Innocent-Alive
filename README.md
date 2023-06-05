@@ -26,7 +26,7 @@
 <h2><img src="https://pixeljoint.com/files/icons/coinspin__r1270235681.gif" height="30" width="30" alt="coin"/>
 My Github Achievements: </h2>
 <p align="left">
-<img src="https://th.bing.com/th/id/R.911fd43f683ee118bb384090327a3bc9?rik=0RhYwzYTnUExsg&riu=http%3a%2f%2f24.media.tumblr.com%2f4e5d950cf3415279986f6b3df76df147%2ftumblr_mmxhygg0vn1rfjowdo1_500.gif&ehk=ZrmjEzY%2fpHokepi6XqAwUcEq83IdVTTFFxKi8EfyRLY%3d&risl=&pid=ImgRaw&r=0" align="right" height="200" width="200" />
+<img src="https://th.bing.com/th/id/R.911fd43f683ee118bb384090327a3bc9?rik=0RhYwzYTnUExsg&riu=http%3a%2f%2f24.media.tumblr.com%2f4e5d950cf3415279986f6b3df76df147%2ftumblr_mmxhygg0vn1rfjowdo1_500.gif&ehk=ZrmjEzY%2fpHokepi6XqAwUcEq83IdVTTFFxKi8EfyRLY%3d&risl=&pid=ImgRaw&r=0" align="right" height="100" width="100" />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocent-alive" alt="innocent-alive" /></a> </p><hr size="1">
 
 

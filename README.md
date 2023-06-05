@@ -26,6 +26,7 @@
 <h2><img src="https://pixeljoint.com/files/icons/coinspin__r1270235681.gif" height="30" width="30" alt="coin"/>
 My Github Achievements: </h2>
 <p align="left">
+<img src="https://th.bing.com/th/id/R.911fd43f683ee118bb384090327a3bc9?rik=0RhYwzYTnUExsg&riu=http%3a%2f%2f24.media.tumblr.com%2f4e5d950cf3415279986f6b3df76df147%2ftumblr_mmxhygg0vn1rfjowdo1_500.gif&ehk=ZrmjEzY%2fpHokepi6XqAwUcEq83IdVTTFFxKi8EfyRLY%3d&risl=&pid=ImgRaw&r=0" align="right" height="200" width="200" />
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocent-alive" alt="innocent-alive" /></a> </p><hr size="1">
 
 
@@ -62,7 +63,8 @@ My Github Achievements: </h2>
 
 
 
-<h2>My Github Statistics so far -</h2>
+<h2>My Github Statistics so far <img src="https://thumbs.gfycat.com/ResponsibleComposedCockroach-max-1mb.gif" height="25" width="25">-</h2>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent-alive&show_icons=true&locale=en&layout=compact" alt="innocent-alive" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=innocent-alive&show_icons=true&theme=tokyonight&locale=en" alt="innocent-alive" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=innocent-alive&theme=dark" alt="innocent-alive" /></p>

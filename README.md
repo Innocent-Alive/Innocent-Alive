@@ -40,7 +40,6 @@ My Github Achievements: </h2>
 <a href="https://instagram.com/innocent_alive" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="innocent_alive" height="30" width="40" /></a>
 <a href="https://discord.gg/6ZKMANAS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6ZKMANAS" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Effective-Arrival335" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Effective-Arrival335" height="30" width="40" /></a> &nbsp;
-<a href="https://t.me/innocent_alive" target="blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/telegram-logo-circle-1536x1536.png" alt="innocent_alive" height="30" width="30" /></a>
 </p><hr size=1px>
 
 

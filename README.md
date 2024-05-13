@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/Innocent-Alive/Innocent-Alive/blob/main/hi.gif" width="30" height="30"> Hello, I'm Abhay Kumar Das (Innocent-Alive) <img alt="hello" height="52" width="50" src="https://github.com/Innocent-Alive/Innocent-Alive/blob/main/scratch.gif"></h1><hr>
 <img src="https://github.com/Innocent-Alive/Innocent-Alive/blob/main/Dark%20Blue%20Green%20and%20Yellow%20Pixel%20Zoom%20Virtual%20Background.gif" alt="banner" />
-<h2 align="center">&nbsp;&nbsp;<img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" />  A passionate programmer and developer from India &nbsp;<img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" /></h2>
+<h2 align="center">&nbsp;&nbsp;<img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" />A passionate programmer and web developer from India &nbsp;<img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" /></h2>
 <img src="https://33.media.tumblr.com/09b2f1ad61f656a4981716f70c159998/tumblr_n9oskaDd3H1shpedgo1_400.gif" align="right" height="360" width="300" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=innocent-alive&label=Profile%20Views&color=cf0202&style=flat" alt="innocent-alive" /> </p>
 

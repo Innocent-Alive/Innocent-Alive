@@ -23,8 +23,8 @@
 <p align="right">  </p>
 
 <hr>
-<h2><img src="https://pixeljoint.com/files/icons/coinspin__r1270235681.gif" height="30" width="30" alt="coin"/>
-My Github Achievements: </h2>
+<h2>
+My Github Achievements<img src="https://pixeljoint.com/files/icons/coinspin__r1270235681.gif" height="25" width="25" alt="coin"/> : </h2>
 <p align="left">
 
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=innocent-alive" alt="innocent-alive" /></a> </p><hr size="1">
@@ -74,16 +74,12 @@ My Github Achievements: </h2>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p><hr>
-
-
-
-
-<h2>My Github Statistics so far <img src="https://thumbs.gfycat.com/ResponsibleComposedCockroach-max-1mb.gif" height="25" width="25">-</h2>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent-alive&show_icons=true&locale=en&layout=compact" alt="innocent-alive" /></p>
+<div>
+  <h2 align="center">My Github Statistics so far <img src="https://thumbs.gfycat.com/ResponsibleComposedCockroach-max-1mb.gif" height="25" width="25">-</h2>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=innocent-alive&show_icons=true&locale=en&layout=compact" alt="innocent-alive" /></div>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=innocent-alive&show_icons=true&theme=tokyonight&locale=en" alt="innocent-alive" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=innocent-alive&theme=dark" alt="innocent-alive" /></p>
-
-
 <p>
 <img src="https://github.com/Innocent-Alive/Innocent-Alive/blob/main/Blue%20Yellow%20Futuristic%20Virtual%20Technology%20Blog%20Banner.gif" alt="banner" /></p>
+
+<h2 align="center">&nbsp;&nbsp;<img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" /> Developing websites and web applications to empower the tech industry <img src="https://media1.giphy.com/media/2Ygy0khwewLgMSYM0t/source.gif" width="20" height="20" alt="coding" /></h2>
